@@ -54,8 +54,8 @@ var package = Package(
 
                     // Non-source files from `lib`
                     "libzip/lib/CMakeLists.txt",
-                    "libzip/lib/make_zip_err_str.sh",
-                    "libzip/lib/make_zipconf.sh",
+                    // "libzip/lib/make_zip_err_str.sh",
+                    // "libzip/lib/make_zipconf.sh",
 
                     // LZMA compression requires LZMA SDK
                     "libzip/lib/zip_algorithm_xz.c",
